@@ -1,0 +1,9 @@
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\bin\Debug\netcoreapp1.1\TreeGP.deps.json
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\bin\Debug\netcoreapp1.1\TreeGP.runtimeconfig.json
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\bin\Debug\netcoreapp1.1\TreeGP.runtimeconfig.dev.json
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\bin\Debug\netcoreapp1.1\TreeGP.dll
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\bin\Debug\netcoreapp1.1\TreeGP.pdb
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\obj\Debug\netcoreapp1.1\TreeGP.csprojResolveAssemblyReference.cache
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\obj\Debug\netcoreapp1.1\TreeGP.AssemblyInfo.cs
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\obj\Debug\netcoreapp1.1\TreeGP.dll
+C:\Users\Julian\documents\visual studio 2017\Projects\TreeGP\TreeGP\obj\Debug\netcoreapp1.1\TreeGP.pdb
